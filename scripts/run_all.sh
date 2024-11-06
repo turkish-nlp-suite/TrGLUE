@@ -1,6 +1,6 @@
 #!/bin/bash
 
-tasks=("cola" "mnli" "sst2" "mrpc" "qnli" "qqp" "rte" "stsb" "wnli")
+tasks=("cola" "sst2" "mnli" "mrpc" "qnli" "qqp" "rte" "stsb" "wnli")
 
 for task in "${tasks[@]}"
 do
