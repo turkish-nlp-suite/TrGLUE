@@ -1,6 +1,6 @@
 #!/bin/bash
 
-tasks=("cola" "sst2" "qnli" "mrpc" "rte" "stsb")
+tasks=("cola" "mnli" "sst2" "mrpc" "qnli" "qqp" "rte" "stsb" "wnli")
 
 for task in "${tasks[@]}"
 do
@@ -8,7 +8,7 @@ do
     --model_name_or_path dbmdz/bert-base-turkish-cased \ 
     --task_name "$task" \ 
     --max_seq_length 128 \ 
-    --output_dir berturca_"$task" \ 
+    --output_dir berturk_"$task" \ 
     --num_train_epochs 3 \ 
     --learning_rate 2e-5 \ 
     --per_device_train_batch_size 128 \ 
