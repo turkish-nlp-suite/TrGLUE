@@ -3,7 +3,7 @@
 
 # TrGLUE - A Natural Language Understanding Benchmark for Turkish
 TrGLUE is a NLU benchmarking dataset for Turkish. As the name suggests, it's GLUE benchmarking dataset for Turkish language. You can download the datasets from the
-[HuggingFace repo](https://huggingface.co/datasets/turkish-nlp-suite/TrGLUE). For more information about the dataset, the tasks,, data curation and more please visit the HF repo.
+[HuggingFace repo](https://huggingface.co/datasets/turkish-nlp-suite/TrGLUE). For more information about the dataset, the tasks, data curation and more please visit the HF repo.
 
 
 ### Benchmarking
