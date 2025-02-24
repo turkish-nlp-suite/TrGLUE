@@ -1,0 +1,182 @@
+[
+  {
+    "original": "I want you to do an experiment that is exciting for them.",
+    "translate": "Onlar için heyecan verici bir deney yapmanı istiyorum.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "He acted insecure because he probably had resigned himself to failure from the beginning.",
+    "translate": "Güvensiz davrandı çünkü muhtemelen başından beri başarısızlığa istifa etmişti.",
+    "rating": 3,
+    "reason": "The phrase 'başarısızlığa istifa etmişti' is unnatural; 'kabullenmişti' would be better."
+  },
+  {
+    "original": "Once it was around -60 degrees.",
+    "translate": "Bir kez -60 derece civarındaydı.",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "There were no extra paintings added in the year 1999.",
+    "translate": "1999 yılında ekstra resimler eklendi.",
+    "rating": 3,
+    "reason": "The translation is missing the negation; 'ekstra resimler eklenmedi' would be correct."
+  },
+  {
+    "original": "They got rid of the soda tax the next day.",
+    "translate": "Ertesi gün soda vergisinden kurtuldular.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "Success in America depends upon doing well in school.",
+    "translate": "Amerika'daki başarı okulda başarılı olmaya bağlıdır.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "He sighed heavily at the end.",
+    "translate": "Sonunda çok iç çekti.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "Gandhi is next to me.",
+    "translate": "Gandhi yanımda.",
+    "rating": 5,
+    "reason": "Simple and accurate translation."
+  },
+  {
+    "original": "Is that the case?",
+    "translate": "Durum böyle mi?",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "His head hurt terribly.",
+    "translate": "Başı çok acıyor.",
+    "rating": 3,
+    "reason": "The tense is incorrect; 'acıdı' would match the original better."
+  },
+  {
+    "original": "It's three cinemas show old films only.",
+    "translate": "Sadece üç sinema gösteriyor eski filmler.",
+    "rating": 3,
+    "reason": "The word order is awkward, and 'sadece eski filmler gösteriyor' would be better."
+  },
+  {
+    "original": "If you have a very small budget, it makes it difficult.",
+    "translate": "Çok küçük bir bütçeniz varsa, bunu zorlaştırır.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "Unless you are eating a potato that has been cooked in the oven.",
+    "translate": "Fırında pişmiş bir patates yemiyorsanız.",
+    "rating": 4,
+    "reason": "Accurate, but the sentence feels incomplete without context."
+  },
+  {
+    "original": "Our two descriptions could not be more different.",
+    "translate": "İki açıklamamız daha farklı olamazdı.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "Hokkaido has a lot of fun winter sports.",
+    "translate": "Hokkaido çok eğlenceli kış sporları var.",
+    "rating": 3,
+    "reason": "The sentence is missing a verb; 'Hokkaido'da çok eğlenceli kış sporları vardır' would be better."
+  },
+  {
+    "original": "Materials of the road",
+    "translate": "Yolun malzemeleri",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "Spain still refuses to join the European Union.",
+    "translate": "İspanya hala Avrupa Birliği'ne katılmayı reddediyor.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "Opinions tend to vary.",
+    "translate": "Görüşler değişme eğilimindedir.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "Treasury securities interest held by revolving funds.",
+    "translate": "Hazine Menkul Kıymetler Döner Fonlar tarafından tutulan faiz.",
+    "rating": 4,
+    "reason": "Mostly accurate, but the phrasing could be smoother."
+  },
+  {
+    "original": "In public places there are absolutely no place that does that.",
+    "translate": "Halka açık yerlerde bunu yapan kesinlikle bir yer yok.",
+    "rating": 4,
+    "reason": "Accurate, but 'kesinlikle böyle bir yer yok' would sound more natural."
+  },
+  {
+    "original": "The rule is much tougher on the larger businesses and established traders.",
+    "translate": "Kural, daha büyük işletmeler ve yerleşik tüccarlar için çok daha zor.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "He had a problem finding a job because of the hiring freeze.",
+    "translate": "Kiralama donması nedeniyle bir iş bulmakta sorun yaşadı.",
+    "rating": 3,
+    "reason": "'Kiralama donması' is unnatural; 'işe alım dondurması' would be correct."
+  },
+  {
+    "original": "You have to pay more in taxes if you are outside the US.",
+    "translate": "ABD dışındaysanız vergilerde daha fazla ödeme yapmanız gerekir.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "The city is known for being really huge.",
+    "translate": "Şehir gerçekten çok büyük olduğu biliniyor.",
+    "rating": 4,
+    "reason": "Mostly accurate, but 'olarak bilinir' would sound more natural."
+  },
+  {
+    "original": "Mike Smith's retirement hindered the Phillies' offensive capability.",
+    "translate": "Mike Smith'in emekliliği, Phillies'in saldırı yeteneğini engelledi.",
+    "rating": 5,
+    "reason": "Accurate and well-phrased translation."
+  },
+  {
+    "original": "The news depresses me.",
+    "translate": "Haber beni bastırıyor.",
+    "rating": 3,
+    "reason": "'Beni bastırıyor' is unnatural; 'Beni üzüyor' would sound better."
+  },
+  {
+    "original": "The Hai Bar Wildlife Reserve is a zoo where all animals are kept in captivity their whole lives.",
+    "translate": "Hai Bar Yaban Hayatı Koruma Alanı, tüm hayvanların tüm hayatları boyunca esaret altında tutulduğu bir hayvanat bahçesidir.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "You should worry about the color of your neighbor's rug.",
+    "translate": "Komşunuzun halının rengi hakkında endişelenmelisiniz.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "The time is well spent with the kids but less is spent with the older ones.",
+    "translate": "Çocuklarla iyi geçirilen zaman, ancak eskilerle daha az harcanıyor.",
+    "rating": 4,
+    "reason": "Mostly accurate, but 'eskilerle' sounds slightly awkward; 'büyüklerle' would be better."
+  },
+  {
+    "original": "I have a lot of football knowledge.",
+    "translate": "Çok fazla futbol bilgim var.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "original": "Between which two streets along Kearney Boulevard were wealthy African-Americans at one time residing?",
+    "translate": "Kearney Bulvarı boyunca hangi iki sokak arasında bir seferde ikamet ederken zengin Afrikalı-Amerikalılardı?",
+    "rating": 3,
+    "reason": "The structure is awkward and grammatically incorrect. A better translation would be: 'Kearney Bulvarı boyunca hangi iki sokak arasında bir zamanlar zengin Afrikalı-Amerikalılar yaşıyordu?'"
+  },
+  {
+    "original": "Where is Audra McDonald from?",
+    "translate": "Audra McDonald nereli?",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "What is stratigraphy?",
+    "translate": "Stratigrafi nedir?",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "What is another way of referring to stators?",
+    "translate": "Statorlara atıfta bulunmanın başka bir yolu nedir?",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "Who was Bill Aiken's adopted mother?",
+    "translate": "Bill Aiken'in evlat edinilmiş annesi kimdi?",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "What is the name of a Bodhisattva vow?",
+    "translate": "Bodhisattva yeminin adı nedir?",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "Who lead the 1968 special programming for ABC Radio's FM stations?",
+    "translate": "ABC Radio'nun FM istasyonları için 1968 özel programlamasına kim liderlik ediyor?",
+    "rating": 4,
+    "reason": "'Kim liderlik ediyor?' is in the present tense, but the original sentence is in the past. 'Kim liderlik etti?' would be correct."
+  },
+  {
+    "original": "The Great Internet Mersenne Prime Search, what was the prize for finding a prime with at least 10 million digits?",
+    "translate": "Büyük İnternet Mersenne Prime Search, en az 10 milyon basamaklı bir başarı bulmak için ödül neydi?",
+    "rating": 4,
+    "reason": "'Başarı bulmak' is incorrect; 'asal sayı bulmak' would be better."
+  },
+  {
+    "original": "Vetra and I Germanica and XX Valeria were the two legions for what?",
+    "translate": "Vetra ve ben Germanica ve XX Valeria neyin iki lejyonuydu?",
+    "rating": 3,
+    "reason": "'Vetra ve ben Germanica' is a mistranslation; it should be 'Vetra ve I Germanica.'"
+  },
+  {
+    "original": "What was the average cost of a 30-second commercial?",
+    "translate": "30 saniyelik bir reklamın ortalama maliyeti neydi?",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "What subatomic particle did Tesla deny the existence of?",
+    "translate": "Tesla hangi atom altı parçacığı varlığını inkar etti?",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "ENR used data on what to rank Top 400 firms as heavy contractors?",
+    "translate": "ENR, en iyi 400 firmayı ağır yüklenici olarak sıralamak için neye dair verileri kullandı?",
+    "rating": 4,
+    "reason": "Mostly accurate, but 'neye dair' is slightly awkward; 'hangi verilere dayanarak' would improve clarity."
+  },
+  {
+    "original": "What did Carolina face in the opening drive that they had not faced the entire postseason?",
+    "translate": "Carolina açılış sürüşünde tüm sezonun tümüyle karşılaşmadıkları neye baktı?",
+    "rating": 3,
+    "reason": "'Tümüyle karşılaşmadıkları neye baktı?' is awkward; 'neyle karşılaştı?' would be better."
+  },
+  {
+    "original": "Where does centripetal force go?",
+    "translate": "Merkezsel kuvvet nereye gidiyor?",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "What are those from Jacksonville sometimes called?",
+    "translate": "Jacksonville'den gelenler bazen denir?",
+    "rating": 3,
+    "reason": "Grammatically incorrect; 'Jacksonville'den gelenlere bazen ne denir?' would be correct."
+  },
+  {
+    "original": "What kind of weapon did Tesla talk about?",
+    "translate": "Tesla ne tür bir silah hakkında konuştu?",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "How long did it take Johnson to respond to Kennedy?",
+    "translate": "Johnson'ın Kennedy'ye cevap vermesi ne kadar sürdü?",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "What is the name of the book written by Archeologist Betty Meggers?",
+    "translate": "Arkeolog Betty Meggers tarafından yazılan kitabın adı nedir?",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "What part of the V&A collection does the Henry Cole Wing house?",
+    "translate": "Henry Cole Wing V&A koleksiyonunun hangi kısmını evlendiriyor?",
+    "rating": 3,
+    "reason": "'Evlendiriyor' is incorrect; 'barındırıyor' would be accurate."
+  },
+  {
+    "original": "If two-thirds of the Rhine flows through the Maas, where does the other one-third flow through?",
+    "translate": "Ren'in üçte ikisi Maas'tan akarsa, diğer üçte biri nereye akıyor?",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "How many granal thylakoids are usually in each granum?",
+    "translate": "Her granumda genellikle kaç granal tilakoid vardır?",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "Which company is the gallery of Japanese art named after?",
+    "translate": "Japon sanatı galerisi hangi şirketin adını taşıyor?",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "Who was the main crew of Apollo 1, of which they named themselves?",
+    "translate": "Apollo 1'in kendilerini adlandırdıkları ana mürettebat kimdi?",
+    "rating": 4,
+    "reason": "Mostly accurate, but 'kendilerini adlandırdıkları' is awkward; 'kendilerine isim verdikleri' would be better."
+  },
+  {
+    "original": "What typeface are the letters in the iconic ABC logo reminiscent of?",
+    "translate": "İkonik ABC logosundaki harfleri anımsatan harfler hangi yazı tipi?",
+    "rating": 3,
+    "reason": "'Anımsatan harfler hangi yazı tipi?' is incomplete; 'hangi yazı tipini anımsatıyor?' would be better."
+  },
+  {
+    "original": "What was the year when Tesla went back to Smiljan?",
+    "translate": "Tesla'nın Smiljan'a geri döndüğü yıl neydi?",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "When was the St. Bartholomew's Day Massacre?",
+    "translate": "St. Bartholomew'in Günü Katliamı ne zamandı?",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "How many students have received unwanted sexual attention from a teacher or other education figure?",
+    "translate": "Kaç öğrenci bir öğretmen veya başka bir eğitim figüründen istenmeyen cinsel ilgi gördü?",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "What is the name of the European Union agency for external border security?",
+    "translate": "Avrupa Birliği Dış Sınır Güvenliği Ajansı'nın adı nedir?",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "How did the new king react to the Huguenots?",
+    "translate": "Yeni Kral Huguenots'a nasıl tepki verdi?",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "When did the name black death officially take root in England?",
+    "translate": "Black Death ismi İngiltere'de resmen kök saldı?",
+    "rating": 4,
+    "reason": "'Resmen kök saldı?' could be improved to 'resmi olarak kullanılmaya başlandı?' for better clarity."
+  }
+]
+

@@ -1,0 +1,183 @@
+[
+  {
+    "original": "It indeed appears the Andromeda galaxy (M31) and The Milky Way (MW) are en route to a collision.",
+    "translate": "Gerçekten de Andromeda Galaxy (M31) ve Samanyolu (MW) bir çarpışmaya giderken görünüyor.",
+    "rating": 4,
+    "result": "While understandable, it's a bit awkwardly phrased. \"Andromeda Galaksisi (M31) ve Samanyolu (MW) gerçekten de çarpışma rotasında gibi görünüyor.\" is smoother."
+  },
+  {
+    "original": "This question has already been widely discussed and answered on Skeptics.",
+    "translate": "Bu soru zaten şüpheciler üzerinde geniş çapta tartışılmış ve cevaplanmıştır.",
+    "rating": 2,
+    "result": "\"Şüpheciler üzerinde\" is incorrect.  It should be \"Şüpheciler tarafından\" or, better yet,  \"Şüpheci forumlarda\". \"Bu soru şüpheci forumlarda zaten kapsamlı bir şekilde tartışılmış ve yanıtlanmıştır.\" is a better translation."
+  },
+  {
+    "original": "Eclipse Below are list of eclipse shortcuts which I use almost everyday.",
+    "translate": "Aşağıdaki Eclipse, neredeyse her gün kullandığım tutulma kısayollarının listesi bulunmaktadır.",
+    "rating": 1,
+    "result": "This is grammatically incorrect and confusing.  \"Aşağıda, neredeyse her gün kullandığım Eclipse kısayollarının bir listesi bulunmaktadır.\" is the correct translation."
+  },
+  {
+    "original": "A woman is writing something.",
+    "translate": "Bir kadın bir şeyler yazıyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "About 25 governments have signed in the last four months, about half of those in the last three weeks.",
+    "translate": "Son dört ayda yaklaşık 25 hükümet imzaladı, son üç hafta içinde bunların yaklaşık yarısı.",
+    "rating": 4,
+    "result": "A bit choppy. \"Son dört ayda yaklaşık 25 hükümet anlaşma imzaladı; bunların yaklaşık yarısı son üç hafta içinde imzalandı.\" is smoother."
+  },
+  {
+    "original": "A boy is jumping into the water with a ball in his hand.",
+    "translate": "Bir çocuk elinde bir topla suya atlıyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "At CPAC, Mitt Romney Stresses Conservative Credentials",
+    "translate": "CPAC'de Mitt Romney muhafazakar kimlik bilgilerini vurgular",
+    "rating": 4,
+    "result": "While grammatically correct, it reads a bit stiffly. \"Mitt Romney, CPAC'de muhafazakar kimlik bilgilerini vurguladı.\" (past tense) is more natural for a news headline."
+  },
+  {
+    "original": "A group of people are camping out on some rocks.",
+    "translate": "Bir grup insan bazı kayalarda kamp yapıyor.",
+    "rating": 4,
+    "result": "\"Bazı kayalarda\" sounds a little odd.  \"Kayalıklarda\" or \"kayaların üzerinde\" would be more natural depending on the context.  \"Bir grup insan kayalıklarda kamp kuruyor.\" is a good option."
+  },
+  {
+    "original": "As I understand it, nothing that can be changed, or broken down into smaller parts is inherently real.",
+    "translate": "Anladığım kadarıyla, değiştirilebilecek veya daha küçük parçalara ayrılabilecek hiçbir şey doğal olarak gerçek değildir.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "In the past it has grown almost like a weed in our pots on our deck here in North Texas.",
+    "translate": "Geçmişte, Kuzey Teksas'taki güvertemizdeki tencerelerimizde neredeyse bir ot gibi büyüdü.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "The governor is going to Jackson, where 13 of the state's 16 fatalities were reported.",
+    "translate": "Vali, devletin 16 ölümünün 13'ünün bildirildiği Jackson'a gidiyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "Yeager said the suspect in the Target attack showed tendencies of being a prior offender.",
+    "translate": "Yeager, hedef saldırıdaki şüphelinin önceki bir suçlu olma eğilimleri gösterdiğini söyledi.",
+    "rating": 4,
+    "result": "Slightly awkward. \"Yeager, Target saldırısındaki şüphelinin daha önce suç işlemiş biri olma eğilimi gösterdiğini söyledi.\" is better."
+  },
+  {
+    "original": "The black and brown cow is looking at the camera.",
+    "translate": "Siyah ve kahverengi inek kameraya bakıyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "The companies, Chiron and Aventis Pasteur, together made about 80 million doses of the injected vaccine, which ordinarily would have been enough to meet U.S. demand.",
+    "translate": "Şirketler, Chiron ve Aventis Pasteur, birlikte ABD talebini karşılamak için normalde yeterli olacak olan enjekte edilen aşı yaklaşık 80 milyon doz yaptı.",
+    "rating": 4,
+    "result": "Word order is a bit unnatural. \"Chiron ve Aventis Pasteur şirketleri, birlikte, normalde ABD talebini karşılamak için yeterli olacak olan enjekte edilebilir aşının yaklaşık 80 milyon dozunu üretti.\" is better."
+  },
+  {
+    "original": "\"What I am really looking for is an estimation of the Muslim population...\" @ThanosK and @T.E.D., an overall, general population estimation f.e.",
+    "translate": "\"Gerçekten aradığım şey Müslüman nüfusun bir tahmini ...\" @thanosk ve @t.e.d., Genel, genel bir nüfus tahmini f.E.",
+    "rating": 4,
+    "result": "The abbreviation \"f.e.\" is unclear. Assuming it means \"for example\", \"örneğin\" should be used.  Also, repeating \"genel\" is redundant.  \"'Gerçekten aradığım şey, Müslüman nüfusunun bir tahmini...' @ThanosK ve @T.E.D., genel bir nüfus tahmini, örneğin,\" is a better translation."
+  },
+  {
+    "original": "The woman is holding the hands of the man.",
+    "translate": "Kadın adamın ellerini tutuyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "The report also claims that there will be up to 9.3 million visitors to hot spots this year, up again from the meagre 2.5 million in 2002.",
+    "translate": "Raporda ayrıca, 2002'de 2,5 milyon yeterlilikten tekrar bu yıl sıcak noktalara 9,3 milyona kadar ziyaretçi olacağını iddia ediyor.",
+    "rating": 2,
+    "result": "\"Yeterlilikten\" is incorrect. It seems like \"meagre\" was mistranslated.  \"Raporda ayrıca, bu yıl turistik yerlere 9,3 milyona kadar ziyaretçi olacağı, 2002'deki düşük 2,5 milyon rakamından tekrar bir artış olduğu iddia ediliyor.\" is a better translation."
+  },
+  {
+    "original": "Bulger's brother is now on the agency's ''10 Most Wanted'' list, sought in connection with 21 murders.",
+    "translate": "Bulger'ın kardeşi şimdi 21 cinayetle bağlantılı olarak aranan ajansın '' en çok aranan '' listesinde.",
+    "rating": 3,
+    "result": "The quotes around \"en çok aranan\" are unnecessary. \"Bulger'ın kardeşi, 21 cinayetle bağlantılı olarak arandığı için, şimdi ajansın 'En Çok Aranan 10' listesinde.\" is a better translation."
+  },
+  {
+    "original": "Running downhill is the BEST way to strengthen your quad muscles.",
+    "translate": "Yokuş aşağı koşmak, dört kaslarınızı güçlendirmenin en iyi yoludur.",
+    "rating": 4,
+    "result": "“Dört kaslarınız” is grammatically correct but sounds unnatural. \"Quadriceps kaslarınızı\" or simply \"bacak kaslarınızı\" would be better. \"Yokuş aşağı koşmak, bacak kaslarınızı güçlendirmenin en iyi yoludur.\" is a good option."
+  },
+  {
+    "original": "The Nasdaq composite index advanced 20.59, or 1.3 percent, to 1,616.50, after gaining 5.7 percent last week.",
+    "translate": "Nasdaq kompozit endeksi geçen hafta yüzde 5,7 kazandıktan sonra 20.59 veya yüzde 1,3 oranında 1.616.50'ye yükseldi.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "I don't think there are likely to be any standards that address this issue specifically.",
+    "translate": "Bu sorunu özellikle ele alan herhangi bir standart olabileceğini düşünmüyorum.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A crowd of men wearing paper numbers on their shirts run in a race.",
+    "translate": "Gömleklerinde kağıt numaraları giyen bir kalabalık bir yarışta koşuyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "Russian Federal Law is actually quite specific on this one and not as arbitrary as argued.",
+    "translate": "Rus federal yasası aslında bu konuda oldukça spesifiktir ve tartışıldığı kadar keyfi değildir.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "Newspeak, a \"deliberately impoverished\" language designed to prevent people from communicating and thinking about subversive ideas.",
+    "translate": "Newspeak, insanların yıkıcı fikirler hakkında iletişim kurmasını ve düşünmesini önlemek için tasarlanmış \"kasıtlı olarak fakir\" bir dil.",
+    "rating": 4,
+    "result": "While understandable, it can be improved. \"Newspeak, insanların yıkıcı fikirler hakkında iletişim kurmasını ve düşünmesini engellemek için tasarlanmış, 'kasıtlı olarak fakirleştirilmiş' bir dil.\" is better."
+  },
+  {
+    "original": "Kyoto, at least does, as described here: JR Kyoto Station.",
+    "translate": "Kyoto, en azından burada açıklandığı gibi yapıyor: Jr Kyoto İstasyonu.",
+    "rating": 3,
+    "result": "Lacks context and is therefore unclear.  \"Kyoto, en azından JR Kyoto İstasyonu'nda açıklandığı gibi, bunu yapıyor.\" is slightly better, but the sentence still needs more context to be fully understood."
+  },
+  {
+    "original": "Some ancient historical precedent exists for preferring $10$, but also for $6$, so that's mixed support from Wikipedia on perfect numbers.",
+    "translate": "Bazı antik tarihi emsaller, 10 $ $ 'lık, aynı zamanda 6 $ için de tercih etmek için var, bu yüzden Wikipedia'dan mükemmel sayılarda karışık bir destek.",
+    "rating": 3,
+    "result": "The dollar signs are misplaced and the sentence structure is awkward.  \"Mükemmel sayılar konusunda Wikipedia'da hem 10 hem de 6 sayıları için antik tarihsel emsaller mevcut, bu nedenle karışık bir destek var.\" is a better translation."
+  },
+  {
+    "original": "A close-up of a cat on a cream sofa.",
+    "translate": "Kremalı bir kanepe üzerinde bir kedinin yakın çekimi.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "BioReliance's stock closed down 2 cents yesterday at $47.98 per share.",
+    "translate": "BioRiance'ın hisseleri dün hisse başına 47,98 $ 'dan 2 sent kapandı.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "Representatives for Puretunes could not immediately be reached for comment Wednesday.",
+    "translate": "Puretunes temsilcilerine Çarşamba günü yorum için hemen ulaşılamadı.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "Senators can return to playoffs with victory",
+    "translate": "Senatörler zaferle playofflara dönebilirler",
+    "rating": 5,
+    "result": "Perfect translation."
+  }
+]
+

@@ -1,0 +1,182 @@
+[
+  {
+    "original": "hello stop upsetting me",
+    "translated": "merhaba beni üzmeyi bırak",
+    "rating": 5,
+    "reason": "Accurate and natural."
+  },
+  {
+    "original": "Since they are independent, they have more things to do.",
+    "translated": "Bağımsız oldukları için yapacak daha çok şeyleri var.",
+    "rating": 5,
+    "reason": "Accurate and natural."
+  },
+  {
+    "original": "The GAO has received many complaints due to lack of a website.",
+    "translated": "GAO, bir web sitesi eksikliği nedeniyle birçok şikayet aldı.",
+    "rating": 5,
+    "reason": "Accurate translation."
+  },
+  {
+    "original": "China had many more nuclear warhead than the US.",
+    "translated": "Çin'in ABD'den çok daha fazla nükleer savaş başlığı vardı.",
+    "rating": 4,
+    "reason": "Correct, but would be slightly improved with \"nükleer savaş başlığı\" (singular) since the comparison is about the quantity rather than multiple individual warheads."
+  },
+  {
+    "original": "The date is right there, it says May 9th.",
+    "translated": "Tarih tam orada, diyor 9 Mayıs.",
+    "rating": 4,
+    "reason": "While understandable, it's slightly unnatural. \"Tarih orada, 9 Mayıs yazıyor.\" is more natural."
+  },
+  {
+    "original": "The evaluation tool is used to work on research studies.",
+    "translated": "Değerlendirme aracı araştırma çalışmaları üzerinde çalışmak için kullanılır.",
+    "rating": 3,
+    "reason": "A bit redundant.  \"Değerlendirme aracı araştırma çalışmalarında kullanılır.\" is more concise and natural."
+  },
+  {
+    "original": "They are not levied through the power of the Government to compel payment.",
+    "translated": "Hükümetin ödemeyi zorlama yetkisi ile alınmazlar.",
+    "rating": 4,
+    "reason": "Grammatically correct, but a bit awkward. \"Hükümetin ödemeyi zorunlu kılma yetkisiyle alınmazlar.\" or \"Devletin zorlayıcı gücüyle toplanmazlar.\" would be more natural."
+  },
+  {
+    "original": "Two golden calves, carrying out capitalist principles, laugh at customers.",
+    "translated": "Kapitalist prensipleri gerçekleştiren iki altın buzağı müşterilere gülüyor.",
+    "rating": 4,
+    "reason": "Technically correct, but the imagery might not translate perfectly.  Consider if the original intent is sarcastic or metaphorical and adjust accordingly.  A more natural phrasing might be \"Kapitalist ilkeleri uygulayan iki altın buzağı, müşterilerle alay ediyor.\""
+  },
+  {
+    "original": "It is pretty much deserted in July.",
+    "translated": "Temmuz ayında hemen hemen terk edildi.",
+    "rating": 3,
+    "reason": "Implies a single event of abandonment.  \"Temmuz ayında neredeyse bomboş olur.\" is better."
+  },
+  {
+    "original": "She owed nothing.",
+    "translated": "Hiçbir şey borçlu değildi.",
+    "rating": 5,
+    "reason": "Accurate."
+  },
+  {
+    "original": "By morning, they would burn the village to the ground.",
+    "translated": "Sabah, köyü yere yakacaklardı.",
+    "rating": 3,
+    "reason": "\"Yere yakacaklardı\" is literal and unnatural. \"Sabahleyin köyü yakıp kül edeceklerdi.\" is more idiomatic."
+  },
+  {
+    "original": "That worked for me when I did it throughout college",
+    "translated": "Kolej boyunca yaptığımda benim için işe yaradı",
+    "rating": 5,
+    "reason": "Accurate and natural."
+  },
+  {
+    "original": "Not all of the animals",
+    "translated": "Tüm hayvanlar değil",
+    "rating": 5,
+    "reason": "Accurate."
+  },
+  {
+    "original": "Specific approaches to each principle is the same in each sector.",
+    "translated": "Her prensibe özel yaklaşımlar her sektörde aynıdır.",
+    "rating": 5,
+    "reason": "Accurate."
+  },
+  {
+    "original": "The numbers are very similar.",
+    "translated": "Sayılar çok benzer.",
+    "rating": 5,
+    "reason": "Accurate."
+  },
+  {
+    "original": "41,634 associates gave money to Legal Aid through their site.",
+    "translated": "41.634 ortak, siteleri aracılığıyla adli yardıma para verdi.",
+    "rating": 4,
+    "reason": "\"Ortak\" is a bit ambiguous. \"Çalışan\" or \"üye\" might be more appropriate depending on the context.  Also, using a period instead of a comma in the number is the Turkish convention."
+  },
+  {
+    "original": "The story has been told a million times.",
+    "translated": "Hikayeye milyonlarca kez anlatıldı.",
+    "rating": 3,
+    "reason": "The passive voice is awkward here.  \"Bu hikaye milyonlarca kez anlatıldı.\" is more natural."
+  },
+  {
+    "original": "Be in a bad mood.",
+    "translated": "Kötü bir ruh halinde ol.",
+    "rating": 4,
+    "reason": "While grammatically correct, \"Keyfin kaçık olsun.\" or \"Moralsiz ol.\" are more natural ways to express this as a command."
+  },
+  {
+    "original": "In all honesty, the rights recently put in place are nowhere near enough",
+    "translated": "Dürüst olmak gerekirse, yakın zamanda ortaya konan haklar yeterince yakın değil",
+    "rating": 2,
+    "reason": "Unnatural and doesn't convey the meaning well.  \"Dürüst olmak gerekirse, yakın zamanda getirilen haklar yeterli olmaktan çok uzak.\" is better."
+  },
+  {
+    "original": "Your foundation is being beamed away.",
+    "translated": "Vakfınız ışınlanıyor.",
+    "rating": 3,
+    "reason":  "While literally correct, this depends heavily on context. Foundation could mean a building's foundation or a charitable organization.  The translation needs to reflect the correct meaning."
+  },
+  {
+    "original": "The tomb garden can give you a thorough tour of the catacombs.",
+    "translated": "Mezar Bahçesi size kapsamlı bir turda size kapsamlı bir tur verebilir.",
+    "rating": 2,
+    "reason": "Repetitive and unnatural. \"Mezar Bahçesi size mezarlıklarda kapsamlı bir tur sunabilir.\" is much better."
+  },
+  {
+    "original": "She didn't want anyone to enter the room.",
+    "translated": "Kimsenin odaya girmesini istemedi.",
+    "rating": 5,
+    "reason": "Accurate and natural."
+  },
+  {
+    "original": "I will be assuming that the 6.0a cost of the Postal Service to take the mail from basic to workshared condition is constant.",
+    "translated": "Posta hizmetinin 6.0A maliyetinin Posta Basic'ten Workshared Durum'a götürmek için sabit olduğunu varsayacağım.",
+    "rating": 3,
+    "reason": "Too literal and uses English terms.  \"Posta hizmetinin postayı temel durumdan paylaşımlı duruma getirme maliyetinin (6.0a) sabit olduğunu varsayacağım.\" is better, though \"6.0a\" and \"basic/workshared\" might require more context-specific translations."
+  },
+  {
+    "original": "He had a lot of experiences going on.",
+    "translated": "Devam eden birçok deneyimi vardı.",
+    "rating": 3,
+    "reason": "Slightly awkward. \"Birçok deneyim yaşıyordu\" or \"Birçok şeyden geçiyordu\" might be more natural depending on the intended meaning."
+  },
+  {
+    "original": "Text about GBP and USD.",
+    "translated": "GBP ve USD hakkında metin.",
+    "rating": 4,
+    "reason": "Correct but could be improved by using the Turkish terms \"İngiliz Sterlini\" and \"Amerikan Doları\": \"İngiliz Sterlini ve Amerikan Doları hakkında metin.\""
+  },
+  {
+    "original": "The departures help them take advantage of the low cost of living in the south.",
+    "translated": "Kalkışlar, Güney'deki düşük yaşam maliyetinden yararlanmalarına yardımcı olur.",
+    "rating": 2,
+    "reason": "\"Kalkışlar\" doesn't make sense here.  It seems like \"departures\" refers to people leaving.  \"Gidişler\" or \"Taşınmalar\", or even \"Ayrılışlar\" would be better, depending on the context. For example: \"Güney'e taşınmaları, düşük yaşam maliyetinden yararlanmalarına yardımcı olur.\""
+  },
+  {
+    "original": "They had no idea where the package had came from as it did not have a stamp.",
+    "translated": "Bir damgası olmadığı için paketin nereden geldiğine dair hiçbir fikirleri yoktu.",
+    "rating": 5,
+    "reason": "Accurate and natural."
+  },
+  {
+    "original": "Sick and elderly people travel here from all over the country, and even from other countries.",
+    "translated": "Hasta ve yaşlı insanlar ülkenin her yerinden ve hatta diğer ülkelerden bile burada seyahat ediyor.",
+    "rating": 4,
+    "reason": "While grammatically correct, it's slightly unnatural to say they \"travel here.\"  \"Hasta ve yaşlı insanlar tedavi için ülkenin her yerinden ve hatta diğer ülkelerden buraya geliyorlar.\" is more natural, assuming the context is about medical treatment."
+  },
+  {
+    "original": "Dave was paying the speaker lots of attention.",
+    "translated": "Dave konuşmacıya çok dikkat ediyordu.",
+    "rating": 5,
+    "reason": "Accurate and natural."
+  },
+  {
+    "original": "\"I truly believe that that's really important.\"",
+    "translated": "\"Bunun gerçekten önemli olduğuna gerçekten inanıyorum.\"",
+    "rating": 4,
+    "reason": "Accurate but slightly redundant with the double \"gerçekten.\"  \"Bunun gerçekten çok önemli olduğuna inanıyorum.\" is more natural."
+  }
+]

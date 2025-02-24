@@ -1,0 +1,182 @@
+[
+  {
+    "original": "How not to feel guilty since I am Muslim and I'm conscious we won't have sex together?",
+    "translate": "Müslüman olduğum için nasıl suçlu hissetmez ve birlikte seks yapmayacağımızın bilincindeyim?",
+    "rating": 2,
+    "result": "Grammatically incorrect and doesn't convey the meaning.  A better translation would be: \"Müslüman olduğum ve birlikte seks yapmayacağımız için nasıl suçlu hissetmem?\""
+  },
+  {
+    "original": "Would you go out with a friend?",
+    "translate": "Bir arkadaşınızla dışarı çıkar mısın?",
+    "rating": 4,
+    "result": "While understandable, it implies the asker is asking the listener to go out with *the listener's* friend.  \"Bir arkadaşınla dışarı çıkar mısın?\" would be more accurate if asking if the listener would go out with *any* friend."
+  },
+  {
+    "original": "What are some tips on making it through the job interview process at Air Lease?",
+    "translate": "Hava kiralamasında iş görüşmesi sürecinde bunu yapmanın bazı ipuçları nelerdir?",
+    "rating": 2,
+    "result": "\"Hava kiralaması\" is a poor translation of \"Air Lease\" (which is a company name).  A better translation: \"Air Lease'deki iş görüşmesi sürecinde başarılı olmak için bazı ipuçları nelerdir?\""
+  },
+  {
+    "original": "How does an IQ test work and what is determined from an IQ test?",
+    "translate": "Bir IQ testi nasıl çalışır ve bir IQ testinden ne belirlenir?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "What is the responsibility of SAP ERP key user?",
+    "translate": "SAP ERP Anahtar Kullanıcısının sorumluluğu nedir?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "What is the best free VPN?",
+    "translate": "En iyi ücretsiz VPN nedir?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "What is the best lesson we should learn from life?",
+    "translate": "Hayattan öğrenmemiz gereken en iyi ders nedir?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "How to convert red, yellow, and white RCA cables to HDMI?",
+    "translate": "Kırmızı, sarı ve beyaz RCA kablolarını HDMI'ye nasıl dönüştürür?",
+    "rating": 4,
+    "result": "Missing a word. It should be \"Kırmızı, sarı ve beyaz RCA kablolarını HDMI'ye nasıl dönüştürürüm?\" or  \"Kırmızı, sarı ve beyaz RCA kablolarını HDMI'ya nasıl dönüştürebilirim?\""
+  },
+  {
+    "original": "How do people join ISIS?",
+    "translate": "İnsanlar IŞİD'e nasıl katılıyor?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "What is the National nanotechnology initiative?",
+    "translate": "Ulusal Nanoteknoloji Girişimi nedir?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "How is being gay or lesbian less moral than divorce?",
+    "translate": "Eşcinsel veya lezbiyen olmak boşanmadan nasıl daha az ahlaki?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "What is the weight of all the air on earth?",
+    "translate": "Dünyadaki tüm havanın ağırlığı nedir?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "Is this a German Shepherd dog?",
+    "translate": "Bu bir Alman çoban köpeği mi?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "How much time it should take to increase my biceps size from 13.5 inches to 16 inches? I do gym regularly since last 5 months.",
+    "translate": "Pazı boyutumu 13.5 inçten 16 inç'e çıkarmak için ne kadar zaman almalı? Son 5 aydan beri düzenli olarak spor salonu yapıyorum.",
+    "rating": 4,
+    "result": "\"Spor salonu yapıyorum\" sounds unnatural.  \"Spor salonuna gidiyorum\" or \"Düzenli olarak spor yapıyorum\" would be better."
+  },
+  {
+    "original": "What is the best self help book you have read? Why? How did it change your life?",
+    "translate": "Okuduğunuz en iyi kendi kendine yardım kitabı nedir? Neden? Hayatınızı nasıl değiştirdi?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "What is 0 divided by infinity?",
+    "translate": "0'ın sonsuza bölünmesi nedir?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "What is the exam pattern for CAT 2016?",
+    "translate": "CAT 2016 için sınav modeli nedir?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "If more vacuum energy appears with expansion and it has no limit, can infinite of this energy be created? If yes is energy infinite?",
+    "translate": "Genişleme ile daha fazla vakum enerjisi ortaya çıkarsa ve sınırları yoksa, bu enerjinin sonsuz yaratılabilir mi? Evet ise enerji sonsuz mu?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "Why did Trump win the Presidency?",
+    "translate": "Trump neden başkanlığı kazandı?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "How can I lose 4kg weight?",
+    "translate": "4kg ağırlığını nasıl kaybedebilirim?",
+    "rating": 4,
+    "result": "Slightly unnatural. \"4 kilo nasıl verebilirim?\" or \"4 kg nasıl zayıflayabilirim?\" is more natural."
+  },
+  {
+    "original": "What is Stefan Molyneux's I.Q.?",
+    "translate": "Stefan Molyneux'un I.Q.",
+    "rating": 4,
+    "result": "Missing the question word.  It should be \"Stefan Molyneux'un IQ'su nedir?\""
+  },
+  {
+    "original": "Which operating system do Google engineers use?",
+    "translate": "Google mühendisleri hangi işletim sistemini kullanıyor?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "My Galaxy ace is hang?",
+    "translate": "Galaxy ası asılı mı?",
+    "rating": 2,
+    "result": "Incorrect.  It should be \"Galaxy Ace'im donuyor mu?\" or \"Galaxy Ace'im takıldı mı?\""
+  },
+  {
+    "original": "What are some of the most beautiful houses in the world?",
+    "translate": "Dünyanın en güzel evlerinden bazıları nelerdir?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "Do we need smaller states?",
+    "translate": "Daha küçük durumlara ihtiyacımız var mı?",
+    "rating": 2,
+    "result": "\"Durumlar\" is incorrect in this context.  \"Devletlere\" (for political states) or \"eyaletlere\" would be more appropriate.  It could also mean smaller \"haller\" or \"koşullar\" depending on context. More context is needed for a better translation."
+  },
+  {
+    "original": "Modi's announcement on banning 500 and 1000 currency notes. How would it affect economy?",
+    "translate": "Modi'nin 500 ve 1000 para birimi notunu yasaklamaya ilişkin duyurusu. Ekonomiyi nasıl etkiler?",
+    "rating": 4,
+    "result": "Two separate sentences.  Should be combined like: \"Modi'nin 500 ve 1000 para birimi notlarını yasaklama duyurusu ekonomiyi nasıl etkiler?\""
+  },
+  {
+    "original": "Who do you think is the best politician in history?",
+    "translate": "Tarihin en iyi politikacı kim olduğunu düşünüyorsunuz?",
+    "rating": 5,
+    "result": "Accurate and natural translation."
+  },
+  {
+    "original": "How do I recover my forgotten Gmail password?",
+    "translate": "Unutulmuş gmail şifremi nasıl kurtarırım?",
+    "rating": 4,
+    "result": "While understandable, \"Unuttuğum Gmail şifremi nasıl kurtarırım?\" is more natural."
+  },
+  {
+    "original": "What the best science documentaries?",
+    "translate": "En iyi bilim belgeselleri nedir?",
+    "rating": 4,
+    "result": "Missing the verb 'are'.  Should be:  \"En iyi bilim belgeselleri nelerdir?\""
+  },
+  {
+    "original": "What are some excellent signals and system books suggestions?",
+    "translate": "Bazı mükemmel sinyaller ve sistem kitapları önerileri nelerdir?",
+    "rating": 4,
+    "result": "Slightly unnatural phrasing. \"Sinyaller ve sistemler konusunda mükemmel kitap önerileri nelerdir?\" would be better."
+  }
+]

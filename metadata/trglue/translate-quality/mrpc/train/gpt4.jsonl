@@ -1,0 +1,122 @@
+[
+  {
+    "original": "That information was first reported in today's editions of the New York Times.",
+    "translate": "Bu bilgiler ilk olarak New York Times'ın bugünkü baskılarında rapor edildi.",
+    "rating": 4,
+    "reason": "Mostly accurate, but 'rapor edildi' could be improved to 'bildirildi' to sound more natural."
+  },
+  {
+    "original": "\"The president's campaign in 2000 set a standard for disclosure in political fund raising, and the campaign will again in 2004,\" Bush campaign spokesman Dan Ronayne said.",
+    "translate": "Bush kampanyası sözcüsü Dan Ronayne, \"Başkanın 2000'deki kampanyası, siyasi fon toplama işleminde açıklama için bir standart belirledi ve kampanya 2004'te tekrar olacak.\" dedi.",
+    "rating": 4,
+    "reason": "Accurate, but 'tekrar olacak' is slightly awkward; 'tekrar bunu yapacak' would sound more natural."
+  },
+  {
+    "original": "It said the damage to the wing provided a pathway for hot gasses to penetrate the ship's thermal armor during Columbia's ill-fated reentry.",
+    "translate": "Kanattaki hasarın, sıcak gazların Columbia'nın kötü niyetli yeniden girişi sırasında geminin termal zırhına nüfuz etmesi için bir yol sağladığını söyledi.",
+    "rating": 3,
+    "reason": "'Kötü niyetli yeniden girişi' is incorrect; 'talihsiz yeniden girişi' would be more accurate."
+  },
+  {
+    "original": "\"Apple is working with Oxford Semiconductor and affected drive manufacturers to resolve this issue, which resides in the Oxford 922 chipset,\" the company said in a statement.",
+    "translate": "Şirket yaptığı açıklamada, \"Apple Oxford Semiconductor ile çalışıyor ve Oxford 922 yonga setinde bulunan bu sorunu çözmek için Drive üreticilerini etkiliyor.\" dedi.",
+    "rating": 3,
+    "reason": "'Drive üreticilerini etkiliyor' is incorrect; it should be 'etkilenen sürücü üreticileriyle çalışıyor.'"
+  },
+  {
+    "original": "In court papers filed Tuesday, Lee asked for an injunction against Viacom's use of the name, saying he had never given his consent for it to be used.",
+    "translate": "Salı günü açılan mahkeme gazetelerinde Lee, Viacom'un adını kullanmasına karşı bir ihtiyati tedbir istedi ve kullanılmasının rızasını vermediğini söyledi.",
+    "rating": 4,
+    "reason": "'Mahkeme gazeteleri' is not the best choice; 'mahkeme belgeleri' would be more appropriate."
+  },
+  {
+    "original": "Shares of Microsoft rose 50 cents Friday to close at $28.34 a share on the Nasdaq Stock Market.",
+    "translate": "Microsoft hisseleri Cuma günü 50 sent yükseldi ve Nasdaq borsasında hisse 28.34 $'a kapandı.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "The first biotechnology treatment for asthma, the constriction of the airways that affects millions around the world, received approval from the US Food and Drug Administration yesterday.",
+    "translate": "Dünyanın dört bir yanında milyonlarca insanı etkileyen hava yollarının daralması olan astım için ilk biyoteknoloji tedavisi dün ABD Gıda ve İlaç İdaresi'nden onay aldı.",
+    "rating": 5,
+    "reason": "Accurate and well-phrased translation."
+  },
+  {
+    "original": "Only Intel Corp. has a lower dividend yield.",
+    "translate": "Sadece Intel Corp.'un daha düşük temettü getirisi vardır.",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "Tibco has used the Rendezvous name since 1994 for several of its technology products, according to the Palo Alto, California company.",
+    "translate": "California Şirketi Palo Alto'ya göre, TIBCO 1994'ten beri teknoloji ürünlerinin birçoğu için Rendezvous adını kullandı.",
+    "rating": 4,
+    "reason": "'California Şirketi Palo Alto'ya göre' is awkward; 'Palo Alto, California merkezli şirkete göre' would be better."
+  },
+  {
+    "original": "While Bolton apparently fell and was immobilized, Selenski used the mattress to scale a 10-foot, razor-wire fence, Fischi said.",
+    "translate": "Fischi, Bolton görünüşe göre düştü ve hareketsiz hale gelirken, Selenski'nin 10 metrelik, jilet telli bir çiti ölçeklendirmek için yatağı kullandığını söyledi.",
+    "rating": 5,
+    "reason": "Accurate and well-phrased translation."
+  },
+  {
+    "original": "A successful attack could be launched within any type of document that supports VBA, including Microsoft Word, Excel or PowerPoint.",
+    "translate": "Microsoft Word, Excel veya PowerPoint de dahil olmak üzere VBA'yı destekleyen her türlü belgede başarılı bir saldırı başlatılabilir.",
+    "rating": 5,
+    "reason": "Accurate and clear translation."
+  },
+  {
+    "original": "Later in the day, a standoff developed between French soldiers and a Hema battlewagon that attempted to pass the UN compound.",
+    "translate": "Günün ilerleyen saatlerinde, Fransız askerleri ve BM bileşiğini geçmeye çalışan bir Hema savaşçısı arasında bir duruş gelişti.",
+    "rating": 4,
+    "reason": "'Savaşçısı' is a mistranslation of 'battlewagon'; 'savaş aracı' would be correct."
+  },
+  {
+    "original": "Tokyo Electric Power Co., Asia's largest power company, won approval to restart the first of 17 nuclear reactors it shut down after it admitted falsifying inspection reports.",
+    "translate": "Tokyo Electric Power Co., Asya'nın en büyük enerji şirketi, denetim raporlarını tahrif ettikten sonra kapattığı 17 nükleer reaktörün ilkini yeniden başlatmak için onay kazandı.",
+    "rating": 5,
+    "reason": "Accurate and well-phrased translation."
+  },
+  {
+    "original": "Her putt for birdie was three feet short but she saved par without difficulty.",
+    "translate": "Bir kuş için putt üç metre kısaydı ama zorluk çekmeden parayı kurtardı.",
+    "rating": 3,
+    "reason": "'Bir kuş için putt' is incorrect; 'birdie için putt' would be correct."
+  },
+  {
+    "original": "\"We are declaring war on sexual harassment and sexual assault.",
+    "translate": "\"Cinsel taciz ve cinsel saldırı için savaş ilan ediyoruz.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "A lawsuit has been filed in an attempt to block the removal of the Ten Commandments monument from the building.",
+    "translate": "On Emir Anıtı'nın binadan kaldırılmasını engellemek amacıyla dava açılmıştır.",
+    "rating": 5,
+    "reason": "Accurate and well-phrased translation."
+  },
+  {
+    "original": "The Saudi newspaper Okaz reported Monday that suspects who escaped Saturday's raid fled in a car that broke down on the outskirts of Mecca Sunday afternoon.",
+    "translate": "Suudi gazetesi Okaz Pazartesi günü, Cumartesi günkü baskından kaçan şüphelilerin Pazar öğleden sonra Mekke'nin eteklerinden ayrılan bir arabaya kaçtığını bildirdi.",
+    "rating": 4,
+    "reason": "'Ayrılan bir arabaya kaçtığını' is awkward; 'kaçtığını' by itself would suffice."
+  },
+  {
+    "original": "\"The bolt catcher is not as robust as it is supposed to be,\" the board's chairman, retired Adm. Hal Gehman, said.",
+    "translate": "Kurulun başkanı, \"Bolt Catcher olması gerektiği kadar sağlam değil.\" dedi.",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "French Foreign Minister Dominique de Villepin was scheduled to arrive Sharm el-Sheikh on Wednesday.",
+    "translate": "Fransız Dışişleri Bakanı Dominique de Villepin'in Çarşamba günü Sharm El-Şeyh'e gelmesi planlandı.",
+    "rating": 5,
+    "reason": "Accurate and well-phrased translation."
+  },
+  {
+    "original": "The name for the robot, due to be launched at 2:05 p.m., was selected from among 10,000 names submitted by U.S. school children.",
+    "translate": "Robotun adı, saat 14:05'te başlatılacak. , ABD Okul Çocukları tarafından gönderilen 10.000 isim arasından seçildi.",
+    "rating": 4,
+    "reason": "Mostly accurate, but punctuation is awkward."
+  }
+]

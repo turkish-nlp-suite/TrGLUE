@@ -1,0 +1,176 @@
+[
+  {
+    "original": "The Germans attacked Funchal harbor using a submarine and destroyed three ships.",
+    "translate": "Almanlar bir denizaltı kullanarak Funchal limanına saldırdı ve üç gemiyi yok etti.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "The crime rate was observably \"up\" in the Dallas area",
+    "translate": "Suç oranı Dallas bölgesinde gözlemlenebilir bir \"yükseldi\"",
+    "rating": 3,
+    "reason": "Grammatically correct, but \"gözlemlenebilir bir yükseldi\" sounds unnatural.  \"Dallas bölgesinde suç oranlarında gözle görülür bir artış vardı\" would be smoother."
+  },
+  {
+    "original": "The clearest air for camera viewing occurs during the summertime.",
+    "translate": "Kamera görüntüleme için en açık hava yaz aylarında gerçekleşir.",
+    "rating": 4,
+    "reason": "Generally good, but could be slightly improved. \"Yaz aylarında kamera çekimleri için hava en temiz olur\" is a more natural phrasing."
+  },
+  {
+    "original": "Degas' housekeeper was named Julie.",
+    "translate": "Degas'ın temizlikçisi Julie olarak adlandırıldı.",
+    "rating": 3,
+    "reason": "\"olarak adlandırıldı\" is a bit awkward. \"Degas'ın temizlikçisinin adı Julie'ydi\" is more natural."
+  },
+  {
+    "original": "Rogier van der Weyden's portrait is the only thing buried near the ducal tombs.",
+    "translate": "Rogier van der Weyden'in portresi, Ducal mezarlarının yakınında gömülen tek şeydir.",
+    "rating": 5,
+    "reason": "Accurate and well-phrased translation."
+  },
+  {
+    "original": "A column called Varnish Remover deals with home renovations.",
+    "translate": "Vernik Çıkartma adı verilen bir sütun, ev tadilatlarıyla ilgilidir.",
+    "rating": 4,
+    "reason": "Good translation, but could be more natural.  \"Vernik Çıkartma adlı bir köşe yazısı, ev tadilatlarını ele alıyor\" might be better, assuming \"column\" refers to a newspaper or magazine column."
+  },
+  {
+    "original": "The hammer wielder was hit in the knee by a small sword.",
+    "translate": "Hammer Wielder dizine küçük bir kılıç tarafından vuruldu.",
+    "rating": 2,
+    "reason": "\"Hammer Wielder\" is left untranslated.  It should be translated as \"Çekiç kullanan kişi\". A better translation is \"Çekiç kullanan kişinin dizine küçük bir kılıç isabet etti.\""
+  },
+  {
+    "original": "Everyone expected this outcome.",
+    "translate": "Herkes bu sonucu bekledi.",
+    "rating": 5,
+    "reason": "Perfect translation."
+  },
+  {
+    "original": "I would always sleep on the ground since I didn't go to a hotel, but I took them often to see the river bed where I buried the treasure.",
+    "translate": "Bir otele gitmediğim için her zaman yerde uyurdum, ama hazineyi gömdüğüm nehir yatağını görmeleri için sık sık aldım.",
+    "rating": 5,
+    "reason": "Accurate and fluent translation."
+  },
+  {
+    "original": "It was built in 1980 and has the youngest canopy.",
+    "translate": "1980 yılında inşa edildi ve en genç gölgeye sahip.",
+    "rating": 3,
+    "reason": "\"canopy\" is ambiguous and translated literally as \"gölge\".  More context is needed for accurate translation.  Depending on the meaning of \"canopy\",  \"ağaç örtüsü\", \"tente\" or \"çatı\" might be more appropriate."
+  },
+  {
+    "original": "A priest is forbidden to speak to outsiders about the faith.",
+    "translate": "Bir rahip, yabancılarla inanç hakkında konuşmak yasaktır.",
+    "rating": 2,
+    "reason": "The translation implies the *act* of speaking is forbidden, not the priest.  \"Bir rahibin inanç hakkında yabancılarla konuşması yasaktır\" is better."
+  },
+  {
+    "original": "Siddhartha had no use for money anymore.",
+    "translate": "Siddhartha'nın artık para için bir faydası yoktu.",
+    "rating": 4,
+    "reason": "A good translation, but slightly unnatural. \"Siddhartha'nın artık paraya ihtiyacı yoktu\" or \"Siddhartha artık parayı önemsemiyordu\" might be better depending on the nuance."
+  },
+  {
+    "original": "The public transport terminal is at the port.",
+    "translate": "Toplu taşıma terminali limanda.",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "You get no benefits.",
+    "translate": "Hiçbir faydası yok.",
+    "rating": 4,
+    "reason": "Correct, but lacks the directness of the original. \"Hiçbir fayda sağlamazsın\" or \"Fayda yok\" would be more impactful."
+  },
+  {
+    "original": "My conjecture about who the words were directed to could not have been more wrong.",
+    "translate": "Kelimelerin kime yönlendirildiğine dair varsayımım daha yanlış olamazdı.",
+    "rating": 5,
+    "reason": "Excellent translation, capturing the nuance of the original."
+  },
+  {
+    "original": "This will only last a month according to the agency.",
+    "translate": "Ajansa göre bu sadece bir ay sürecek.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "There is no need for big companies to employ skilled people to argue for its interests.",
+    "translate": "Büyük şirketlerin, vasıflı insanları kendi çıkarlarını tartışmak için istihdam etmesine gerek yoktur.",
+    "rating": 5,
+    "reason": "Well-structured and accurate translation."
+  },
+  {
+    "original": "Legal services are good for people who are just down on their luck.",
+    "translate": "Yasal hizmetler sadece şanslarına düşen insanlar için iyidir.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "You cannot?",
+    "translate": "Yapamaz mısın?",
+    "rating": 5,
+    "reason": "Perfect translation."
+  },
+  {
+    "original": "Try to open the door.",
+    "translate": "Kapıyı açmaya çalışın.",
+    "rating": 5,
+    "reason": "Perfect translation."
+  },
+  {
+    "original": "There is no complex question.",
+    "translate": "Karmaşık bir soru yok.",
+    "rating": 5,
+    "reason": "Perfect translation."
+  },
+  {
+    "original": "They don't have 10 people running the whole operation from their corporate headquarters.",
+    "translate": "Şirket merkezlerinden tüm operasyonu çalıştıran 10 kişi yok.",
+    "rating": 5,
+    "reason": "Accurate and well-phrased."
+  },
+  {
+    "original": "I would do the same if we didn't need cable but my wife wouldn't.",
+    "translate": "Kabloya ihtiyacımız olmasaydı ama karım olmazsa da aynısını yapardım.",
+    "rating": 4,
+    "reason": "Mostly correct, but slightly awkward phrasing. \"Kabloya ihtiyacımız olmasaydı aynısını yapardım, ama karım istemezdi\" is smoother."
+  },
+  {
+    "original": "Carter didn't know the answer to the question.",
+    "translate": "Carter sorunun cevabını bilmiyordu.",
+    "rating": 5,
+    "reason": "Perfect translation."
+  },
+  {
+    "original": "The screenings don't want to involve alcoholic parents.",
+    "translate": "Gösterimler alkollü ebeveynleri dahil etmek istemiyor.",
+    "rating": 4,
+    "reason": "The use of \"istemiyor\" is a little unusual here. \"Gösterimlerde alkollü ebeveynlerin yer alması istenmiyor\" or \"Alkollü ebeveynler gösterimlere dahil edilmek istenmiyor\" would be more natural."
+  },
+  {
+    "original": "The SBA has objected to some agencies following this practice.",
+    "translate": "SBA, bu uygulamayı takiben bazı ajanslara itiraz etti.",
+    "rating": 5,
+    "reason": "Accurate and well-structured translation."
+  },
+  {
+    "original": "One solo rider passed by.",
+    "translate": "Bir solo binici geçti.",
+    "rating": 3,
+    "reason": "\"Solo binici\" sounds unnatural.  \"Tek başına bir binici geçti\" or \"Yalnız bir sürücü geçti\" would be better depending on context (horseback vs. vehicle)."
+  },
+  {
+    "original": "It required no skills, so it was too easy for them.",
+    "translate": "Hiçbir beceri gerektirmedi, bu yüzden onlar için çok kolaydı.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "Women in Weather is for female authors.",
+    "translate": "Hava durumlarında kadınlar kadın yazarlar içindir.",
+    "rating": 2,
+    "reason": "Inaccurate translation. \"Women in Weather\" likely refers to a group or project related to female meteorologists or writers about weather. More context is needed, but \"Hava Durumundaki Kadınlar\" might be a better starting point assuming it's a title."
+  }
+]

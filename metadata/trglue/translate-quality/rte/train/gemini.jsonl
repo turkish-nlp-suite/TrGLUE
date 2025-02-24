@@ -1,0 +1,128 @@
+[
+{
+"original": "Australia was one of the countries in the U.S.-led coalition that invaded Iraq in 2003.",
+"translate": "Avustralya, ABD liderliğindeki koalisyonda 2003 yılında Irak'ı işgal eden ülkelerden biriydi.",
+"rating": 5,
+"result": "Excellent translation."
+},
+{
+"original": "\"The Black Panther\", or \"The Black Pearl\", as he was known, was top scorer in the 1966 World Cup, with nine goals to his name.",
+"translate": "\"Kara Panter\" ya da bildiği gibi \"Kara İnci\", 1966 Dünya Kupası'nda en çok golcü oldu ve adına dokuz gol.",
+"rating": 3,
+"result": "The translation is understandable but grammatically awkward.  It should be something like: \"Kara Panter\" veya bilindiği adıyla \"Kara İnci\", 1966 Dünya Kupası'nda dokuz golle en çok gol atan oyuncu oldu."
+},
+{
+"original": "Hydroponics is the growth of plants in a substance other than soil with water.",
+"translate": "Hidroponik, su ile toprak dışında bir maddedeki bitkilerin büyümesidir.",
+"rating": 4,
+"result": "Good translation, but slightly awkward.  A more natural phrasing would be: Hidroponik, su ile toprak yerine başka bir madde içinde bitki yetiştirmektir."
+},
+{
+"original": "A senior Russian politician has hailed a decision by Uzbekistan to shut down a United States military base there, although Moscow officially denies that it is applying pressure on Central Asian states to expel American forces.",
+"translate": "Üst düzey bir Rus politikacı, Özbekistan'ın orada bir Birleşik Devletler askeri üssünü kapatma kararını selamladı, ancak Moskova resmi olarak Orta Asya eyaletlerine Amerikan güçlerini kovmak için baskı uyguladığını inkar ediyor.",
+"rating": 5,
+"result": "Excellent translation."
+},
+{
+"original": "The average cabby works nine and a half hours a day. A cab's busiest hours are 6 to 8 p.m. And even as the economy has fallen deeper into recession, the number of cab rides each day in New York has remained relatively steady.  Those are among the most vivid bits of information about the yellow cab industry to emerge from a trove of new data collected by the Taxi and Limousine Commission from cabs equipped with new computerized systems that record each trip and fare.",
+"translate": "Ortalama Cabby günde dokuz buçuk saat çalışıyor. Bir kabinin en yoğun saatleri 18: 00-8: 00 Ve ekonomi durgunluğa daha derin düşmüş olsa bile, New York'ta her gün kabin sayısı nispeten sabit kaldı.  Bunlar, sarı kabin endüstrisi hakkında, taksi ve Limuzin Komisyonu tarafından toplanan ve her geziyi kaydeden yeni bilgisayarlı sistemlerle donatılmış CABS'den Limuzin Komisyonu tarafından toplanan en canlı bilgi parçaları arasındadır.",
+"rating": 2,
+"result": "Several issues. \"Cabby\" should be \"taksi şoförü.\" \"Kabin\" should be \"taksi.\" The sentence about the number of cab rides remaining steady is mistranslated.  The last sentence is overly complex and repetitive.  A better translation is needed."
+},
+{
+"original": "Gabriel Garcia Marquez was a liberal thinker whose left-wing politics angered many conservative politicians and heads of state. His job as a reporter for the Cuban news agency Prensa Latina, in 1960, and and friendship with Fidel Castro resulted in his being ultimately denied entry to the United States for political reasons.",
+"translate": "Gabriel Garcia Marquez, solcu siyaseti birçok muhafazakar politikacıyı ve devlet başkanlarını kızdıran liberal bir düşünürdü. 1960 yılında Küba haber ajansı Prensa Latina için bir muhabir olarak görevi ve Fidel Castro ile olan dostluk, nihayetinde siyasi nedenlerle ABD'ye girişini reddetmesine neden oldu.",
+"rating": 4,
+"result": "Good translation, but could be improved slightly. The repetition of \"and\" should be removed.  A smoother phrasing is possible."
+},
+{
+"original": "Two Turkish engineers and an Afghan translator kidnapped in December were freed Friday.",
+"translate": "Aralık ayında kaçırılan iki Türk mühendisi ve bir Afgan çevirmen Cuma günü serbest bırakıldı.",
+"rating": 5,
+"result": "Excellent translation."
+},
+{
+"original": "El-Nashar was detained July 14 in Cairo after Britain notified Egyptian authorities that it suspected he may have had links to some of the attackers.",
+"translate": "El-Nashar, İngiltere'nin Mısır yetkililerine bazı saldırganlarla bağlantıları olabileceğinden şüphelendiğini bildirdikten sonra 14 Temmuz Kahire'de gözaltına alındı.",
+"rating": 5,
+"result": "Excellent translation."
+},
+{
+"original": "\"Having for years enjoyed greater rights than other women in the Middle East, women in Iraq are now losing even their basic freedoms. The right to choose their clothes, the right to love or marry whom they want. Of course women suffered under Saddam. I fled his cruel regime. I personally witnessed much brutality, but the subjugation of women was never a goal of the Baath party.\"",
+"translate": "\"Yıllarca Orta Doğu'daki diğer kadınlardan daha büyük haklardan yararlandı, Irak'taki kadınlar şimdi temel özgürlüklerini bile kaybediyor. Kıyafetlerini seçme hakkı, istedikleri kimi sevme veya evlenme hakkı. Tabii ki kadınlar saddam altında acı çekti. Acımasız rejiminden kaçtım, ancak kadınların boyun eğdirilmesi asla Baas Partisi'nin hedefi değildi. \"",
+"rating": 3,
+"result": "The translation is understandable, but grammatically flawed and missing some nuances.  The first sentence is incomplete. The overall tone and flow could be improved."
+},
+{
+"original": "The article also mentions the greater prevalence of obesity among two minority populations, African-Americans and Hispanic/Latino, but does not consider in its analysis of the increase in obesity the increase of these these populations as a proportion of the United States population.  African-Americans and Hispanic/Latinos have a higher rates of obesity than White Americans, while Asian-Americans have a relatively low rate of obesity. Despite only representing one third of the U.S. population, African-Americans and Hispanic/Latinos represent about one half of the population growth.",
+"translate": "Makale aynı zamanda iki azınlık nüfusu arasında, Afrikalı-Amerikalılar ve İspanyol/Latin arasında obezite prevalansından daha fazla bahsediliyor, ancak obezitedeki artış analizinde bu popülasyonların ABD nüfusunun bir oranı olarak artışını dikkate almıyor.  Afrikalı-Amerikalılar ve İspanyol/Latinolar beyaz Amerikalılardan daha yüksek bir obezite oranına sahipken, Asyalı Amerikalılar nispeten düşük bir obezite oranına sahiptir. ABD nüfusunun sadece üçte birini temsil etmesine rağmen, Afrikalı-Amerikalılar ve İspanyol/Latinler nüfus artışının yaklaşık yarısını temsil ediyor.",
+"rating": 4,
+"result": "Mostly good, but a bit clunky in places.  Could be smoother and more natural sounding."
+},
+{
+"original": "The industrial espionage case involving GM and VW began with the hiring of Jos Ignacio Lopez, an employee of GM subsidiary Adam Opel, by VW as production director.",
+"translate": "GM ve VW'yi içeren endüstriyel casusluk vakası, VW tarafından GM yan kuruluşu Adam Opel'in çalışanı Jos Ignacio Lopez'in üretim direktörü olarak işe alınmasıyla başladı.",
+"rating": 5,
+"result": "Excellent translation."
+},
+{
+"original": "Io is 2,236 miles (3,598 kilometers) in diameter, slightly larger than the Earth's moon.",
+"translate": "IO, Dünya'nın ayından biraz daha büyük olan 2.236 mil (3.598 kilometre) çapıdır.",
+"rating": 4,
+"result": "Good.  Using Io instead of İo is acceptable, but İo would be better.  Also, consider using a comma after İo.  İo, Dünya'nın ayından biraz daha büyük, 2.236 mil (3.598 kilometre) çapındadır. is a slightly better phrasing."
+},
+{
+"original": "A recent study offers sound medical proof that ACE inhibitors, like beta-blockers and aspirin, can improve a patient's odds of surviving a heart attack.",
+"translate": "Yakın tarihli bir çalışma, beta blokerleri ve aspirin gibi ACE inhibitörlerinin bir hastanın kalp krizi hayatta kalma olasılığını artırabileceğine dair sağlam bir kanıt sunmaktadır.",
+"rating": 5,
+"result": "Excellent translation."
+},
+{
+"original": "Wilder and his colleagues are cautious about their results also because the data do not make clear whether it was the anesthesia that contributed to the children's learning deficits, or whether it was an underlying condition that may have required surgery and precipitated the learning problems. Of the more than 5,000 babies studied, 593 needed at least one surgery and just over 100 infants needed more than two before age 3. There may be something unusual about this population of children that could have made them vulnerable to learning problems and required they undergo surgery and anesthesia.",
+"translate": "Wilder ve meslektaşları da sonuçları konusunda dikkatlidirler, çünkü veriler çocukların öğrenme eksikliklerine katkıda bulunan anestezi olup olmadığını veya ameliyat gerektirebilecek ve öğrenme problemlerini hızlandıran altta yatan bir durum olup olmadığını netleştirmez. İncelenen 5.000'den fazla bebekten 593'ün en az bir ameliyata ihtiyacı vardı ve 3 yaşından önce ikiden fazla bebeğe ihtiyaç duyuyor. Cerrahi ve anestezi.",
+"rating": 3,
+"result": "The translation is incomplete and grammatically incorrect in the last sentence.  It loses some of the nuance of the original. A more complete and accurate translation is needed."
+},
+{
+"original": "Hollywood actress Minnie Driver is taking a break from films to work in a sweatshop in Cambodia.",
+"translate": "Hollywood oyuncusu Minnie Driver, Kamboçya'daki bir sweathop'ta çalışmak için filmlerden mola veriyor.",
+"rating": 4,
+"result": "Good translation. Consider using  \"kötü çalışma koşullarına sahip atölye\" instead of \"sweatshop\" for better clarity in Turkish."
+},
+{
+"original": "Judie Vivian, chief executive at ProMedica, a medical service company that helps sustain the 2-year-old Vietnam Heart Institute in Ho Chi Minh City (formerly Saigon), said that so far about 1,500 children have received treatment.",
+"translate": "Ho Chi Minh City'deki (eski adıyla Saigon) 2 yaşındaki Vietnam Kalp Enstitüsü'nün sürdürülmesine yardımcı olan bir tıbbi hizmet şirketi olan Promedica'nın genel müdürü Judie Vivian, şimdiye kadar yaklaşık 1.500 çocuğun tedavi gördüğünü söyledi.",
+"rating": 5,
+"result": "Excellent translation."
+},
+{
+"original": "ON 29 June the Dutch right-wing coalition government collapsed. It was made up of the Christian-democrats (CDA) led by Prime Minister Jan Peter Balkenende, the right wing liberal party (VVD) and the so-called 'left-liberal' D66.",
+"translate": "29 Haziran'da Hollanda sağcı koalisyon hükümeti çöktü. Başbakan Jan Peter Balkenende, Sağ Kanat Liberal Partisi (VVD) ve 'Sol-liberal' D66 tarafından yönetilen Hıristiyan-Demokratlar (CDA) 'dan (CDA) oluştu.",
+"rating": 4,
+"result":  "Good.  It could be slightly improved by clarifying that the CDA *was* led by the Prime Minister at the time of the collapse: \"29 Haziran'da, Başbakan Jan Peter Balkenende liderliğindeki Hıristiyan Demokratlar (CDA), sağ kanat liberal parti (VVD) ve sözde 'sol liberal' D66'dan oluşan Hollanda sağcı koalisyon hükümeti çöktü.\""
+},
+{
+"original": "Lord Ganesha occupies a special god status in Hindu tradition, and is considered as the bestower of all  auspiciousness and destroyer of all negativity. Typically these festive celebrations last from one to 11 days,  concluding with a Nimajjan ceremony (immersing the deity in the waters of lake/pond/river/sea/ocean etc). These celebrations are splendidly carried out in India amidst strict security as thousands participate. However; several Indian Hindu communities spread across the globe from Australia to North America have celebrated with no less pomp.",
+"translate": "Lord Ganesha, Hindu geleneğinde özel bir Tanrı statüsünü işgal eder ve tüm nöbetçiliğin ve tüm olumsuzlukların yoksulluğunun bir netliği olarak kabul edilir. Tipik olarak bu şenlikli kutlamalar bir Nimajjan töreniyle sonuçlanarak bir ila 11 gün sürer (tanrıyı gölün/havuz/nehir/deniz/okyanus vb. Bu kutlamalar, binlerce kişi katıldıkça sıkı bir güvenlik ortasında Hindistan'da görkemli bir şekilde gerçekleştiriliyor. Fakat; Avustralya'dan Kuzey Amerika'ya dünyaya yayılmış birkaç Hint Hindu topluluğu daha az ponpon olmadan kutlandı.",
+"rating": 2,
+"Result": "There are several errors. \"Bestower of all auspiciousness\" and \"destroyer of all negativity\" are poorly translated. The sentence about Nimajjan is grammatically awkward. \"No less pomp\" is mistranslated.  A significant revision is needed."
+},
+{
+"original": "FIFA has received 11 bids to host the 2018 and 2022 FIFA World Cup tournaments, an international football competition contested by the men's national teams. The countries vying to host the tournament are Australia, England, Indonesia, Japan, Mexico, Qatar, Russia, South Korea and United States, who have individual bids and the joint bids are from Belgium-Netherlands and Spain-Portugal.  Select bids are for 2018 and 2022 tournaments and two bids are just for the 2022 tournament. Qatar and South Korea are vying just for the 2022 tournament. The two winning bids will be chosen on December 2010 by the 24-man executive committee of FIFA.  Said FIFA president Sepp Blatter: \"We are very pleased about the fantastic level of interest in our flagship competition, with all initial bidders confirming their candidature.\"",
+"translate": "FIFA, erkek milli takımları tarafından itiraz edilen uluslararası bir futbol yarışması olan 2018 ve 2022 FIFA Dünya Kupası turnuvalarına ev sahipliği yapmak için 11 teklif aldı. Turnuvaya ev sahipliği yapmak için mücadele eden ülkeler Avustralya, İngiltere, Endonezya, Japonya, Meksika, Katar, Rusya, Güney Kore ve Amerika Birleşik Devletleri, ortak teklifler Belçika-Netlans ve İspanya-Portekiz'den.  Seçimler 2018 ve 2022 turnuvaları içindir ve iki teklif sadece 2022 turnuvası içindir. Katar ve Güney Kore sadece 2022 turnuvası için yarışıyor. Kazanan iki teklif Aralık 2010'da FIFA'nın 24 kişilik İcra Komitesi tarafından seçilecek.  FIFA Başkanı Sepp Blatter: \"Tüm ilk teklif sahipleri adaylarını doğrulayan amiral gemisi yarışmamıza fantastik ilgi düzeyinden çok memnunuz.\"",
+"rating": 4,
+"result": "Mostly good. Some minor grammatical issues and awkward phrasing.  The distinction between individual and joint bids is not clearly made.  \"Netherlands\" is misspelled."
+},
+{
+"original": "Babe Ruth's career total would have been 1 higher had that rule not been in effect in the early part of his career. The all-time career record for home runs in Major League Baseball is 755, held by Hank Aaron since 1974.",
+"translate": "Babe Ruth'un kariyer toplamı, kariyerinin başlarında bu kural yürürlükte olmasaydı 1 daha yüksek olurdu. Major League Baseball'da ev koşusu için tüm zamanların kariyer rekoru, 1974'ten beri Hank Aaron tarafından düzenlenen 755'tir.",
+"rating": 5,
+"result": "Excellent translation."
+},
+{
+"original": "Google and NASA announced a working agreement, Wednesday, that could result in the Internet giant building a complex of up to 1 million square feet on NASA-owned property, adjacent to Moffett Field, near Mountain View.",
+"translate": "Google ve NASA, Çarşamba günü, İnternet devinin Mountain View yakınlarındaki Moffett Field'ın bitişiğindeki NASA'ya ait mülk üzerinde 1 milyon metrekarelik bir kompleks inşa etmesine neden olabilecek bir çalışma anlaşması duyurdu.",
+"rating": 4,
+"result": "Good translation.  Consider converting square feet to square meters, as that is the standard metric unit.  Also, \"dev\" might be a bit strong; perhaps \"lider şirket\" would be a better fit."
+}
+]

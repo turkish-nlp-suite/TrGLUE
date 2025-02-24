@@ -1,0 +1,183 @@
+[
+  {
+    "original": "A person is frying meat in a pan.",
+    "translate": "Bir kişi bir tavada eti kızartıyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A black and white sheep is walking next to a white sheep.",
+    "translate": "Beyaz bir koyun yanında siyah beyaz bir koyun yürüyor.",
+    "rating": 4,
+    "result": "Slightly unnatural word order. \"Siyah beyaz bir koyun, beyaz bir koyunun yanında yürüyor.\" is more natural."
+  },
+  {
+    "original": "A woman thinly slices an onion with a large knife.",
+    "translate": "Bir kadın, büyük bir bıçakla soğanı ince bir şekilde dilimler.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "Two people paddling in a red canoe with trees in the background.",
+    "translate": "İki kişi arka planda ağaçlarla kırmızı bir kanoda kürek çekiyor.",
+    "rating": 4,
+    "result": "Slightly awkward phrasing. \"Arka planda ağaçlar olan kırmızı bir kanoda iki kişi kürek çekiyor.\" is more natural."
+  },
+  {
+    "original": "A person is mixing water and flour.",
+    "translate": "Bir kişi su ve un karıştırıyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A man chops down a tree with an axe.",
+    "translate": "Bir adam bir ağacı balta ile keser.",
+    "rating": 4,
+    "result": "While grammatically correct, it's more natural to say \"Bir adam baltayla bir ağaç kesiyor.\" (present continuous) or \"Bir adam bir ağacı baltayla kesti.\" (past simple)."
+  },
+  {
+    "original": "A woman puts ingredients in a whisked egg.",
+    "translate": "Bir kadın malzemeleri çırpılmış bir yumurtaya koyar.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A woman is playing an electric guitar.",
+    "translate": "Bir kadın elektro gitar çalıyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A tiger cub is making a sound.",
+    "translate": "Bir kaplan yavrusu ses çıkarıyor.",
+    "rating": 4,
+    "result": "A bit literal. Depending on the sound, something like \"Bir kaplan yavrusu kükrüyor\" (roaring), \"hırlıyor\" (growling), or \"mırıldıyor\" (purring) might be more descriptive."
+  },
+  {
+    "original": "A woman splits garlic cloves.",
+    "translate": "Bir kadın sarımsak karanfilini böler.",
+    "rating": 4,
+    "result": "“Sarımsak karanfili” is understandable but “diş” is more common for garlic cloves. \"Bir kadın sarımsak dişlerini ayırıyor.\" is better."
+  },
+  {
+    "original": "A band is performing on a stage.",
+    "translate": "Bir grup bir sahnede performans sergiliyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A man laying down and shooting a gun",
+    "translate": "Bir adam uzanan ve silahı vuran bir adam",
+    "rating": 2,
+    "result": "Grammatically incorrect and repetitive. \"Yatarak silah atan bir adam\" or \"Uzunmuş bir adam silah atıyor\" are better."
+  },
+  {
+    "original": "A dog is running around a yard.",
+    "translate": "Bir köpek avlunun etrafında koşuyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A cruise liner docked at a port.",
+    "translate": "Bir limana yerleştirilmiş bir kruvaziyer gemisi.",
+    "rating": 3,
+    "result": "“Yerleştirilmiş” isn't the best word choice.  \"Limana yanaşmış bir kruvaziyer gemisi\" is better."
+  },
+  {
+    "original": "A man is chopping coriander leaf.",
+    "translate": "Bir adam kişniş yaprağını kesiyor.",
+    "rating": 4,
+    "result": "Kişniş usually refers to the whole plant.  \"Bir adam kişniş doğruyor.\" is more natural."
+  },
+  {
+    "original": "A person is slicing onions.",
+    "translate": "Bir kişi soğan dilimliyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A man is slicing something.",
+    "translate": "Bir adam bir şey dilimliyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A yellow parrot clings to the side of its cage.",
+    "translate": "Sarı bir papağan kafesinin yanına yapışır.",
+    "rating": 4,
+    "result": "“Yapışır” implies sticking with glue. \"Sarı bir papağan kafesinin kenarına tünemiş.\" is better."
+  },
+  {
+    "original": "A person is slicing an onion.",
+    "translate": "Bir kişi bir soğanı dilimliyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A person is throwing a cat on to the ceiling.",
+    "translate": "Bir kişi tavana bir kedi atıyor.",
+    "rating": 4,
+    "result":  "While literally correct, it sounds like they're throwing the cat with force.  \"Bir kişi bir kediyi tavana doğru fırlatıyor.\" implies a gentler throw, but the context is still strange."
+  },
+  {
+    "original": "A man is playing a flute.",
+    "translate": "Bir adam bir flüt oynuyor.",
+    "rating": 3,
+    "result": "“Oynuyor” is used for games.  “Çalıyor” is the correct verb for playing instruments.  \"Bir adam flüt çalıyor.\""
+  },
+  {
+    "original": "A woman is peeling a potato.",
+    "translate": "Bir kadın patates soyuyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A dog is trying to get bacon off his back.",
+    "translate": "Bir köpek pastırma sırtından çıkmaya çalışıyor.",
+    "rating": 4,
+    "result": "A bit unnatural.  \"Bir köpek sırtındaki pastırmayı çıkarmaya çalışıyor.\" is better."
+  },
+  {
+    "original": "A yellow and blue airplane is flying in the sky.",
+    "translate": "Sarı ve mavi bir uçak gökyüzünde uçuyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A man is riding a motorcycle.",
+    "translate": "Bir adam motosiklet sürüyor.",
+    "rating": 5,
+    "result": "Perfect translation."
+  },
+  {
+    "original": "A man is cutting tomatoes into pieces.",
+    "translate": "Bir adam domatesleri parçalara ayırıyor.",
+    "rating": 4,
+    "result": "“Doğruyor” is more commonly used for cutting into pieces. \"Bir adam domatesleri doğruyor.\" is better."
+  },
+  {
+    "original": "A woman is doing a joker make up on a man.",
+    "translate": "Bir kadın bir erkek üzerinde bir Joker makyaj yapıyor.",
+    "rating": 4,
+    "result": "Needs an article before \"Joker.\"  \"Bir kadın bir erkeğe Joker makyajı yapıyor.\" is better."
+  },
+  {
+    "original": "The woman is playing the flute.",
+    "translate": "Kadın flüt oynuyor.",
+    "rating": 3,
+    "result": "Again, use “çalıyor” for playing instruments.  \"Kadın flüt çalıyor.\""
+  },
+  {
+    "original": "Someone is pouring ingrediants into a pot.",
+    "translate": "Birisi bir tencereye giriyor.",
+    "rating": 1,
+    "result": "Incorrect.  \"Birisi tencereye malzemeleri döküyor.\" is the correct translation."
+  },
+  {
+    "original": "A girl is making eyelid.",
+    "translate": "Bir kız göz kapağı yapıyor.",
+    "rating": 1,
+    "result": "This doesn't make sense in the context of makeup.  Perhaps “eyelid” refers to eye shadow or eyeliner.  More context is needed to provide a good translation.  \"Bir kız göz makyajı yapıyor\" would be a general option."
+  }
+]
+

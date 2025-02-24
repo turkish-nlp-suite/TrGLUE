@@ -1,0 +1,183 @@
+[
+  {
+    "original": "The Germans attacked Funchal harbor using a submarine and destroyed three ships.",
+    "translate": "Almanlar bir denizaltı kullanarak Funchal limanına saldırdı ve üç gemiyi yok etti.",
+    "rating": 5,
+    "reason": "Accurate translation with no errors. Captures the meaning perfectly."
+  },
+  {
+    "original": "The crime rate was observably 'up' in the Dallas area.",
+    "translate": "Suç oranı Dallas bölgesinde gözlemlenebilir bir 'yükseldi'.",
+    "rating": 3,
+    "reason": "Partially correct, but the structure is awkward, and 'yükseldi' could be better phrased for clarity."
+  },
+  {
+    "original": "The clearest air for camera viewing occurs during the summertime.",
+    "translate": "Kamera görüntüleme için en açık hava yaz aylarında gerçekleşir.",
+    "rating": 4,
+    "reason": "Mostly accurate, but 'gerçekleşir' feels unnatural; could use 'olur' instead."
+  },
+  {
+    "original": "Degas' housekeeper was named Julie.",
+    "translate": "Degas'ın temizlikçisi Julie olarak adlandırıldı.",
+    "rating": 4,
+    "reason": "Accurate, but 'olarak adlandırıldı' is slightly formal. 'Adı Julie idi' would feel more natural."
+  },
+  {
+    "original": "Rogier van der Weyden's portrait is the only thing buried near the ducal tombs.",
+    "translate": "Rogier van der Weyden'in portresi, Ducal mezarlarının yakınında gömülen tek şeydir.",
+    "rating": 5,
+    "reason": "Well-translated with no noticeable issues."
+  },
+  {
+    "original": "A column called Varnish Remover deals with home renovations.",
+    "translate": "Vernik Çıkartma adı verilen bir sütun, ev tadilatlarıyla ilgilidir.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "The hammer wielder was hit in the knee by a small sword.",
+    "translate": "Hammer Wielder dizine küçük bir kılıç tarafından vuruldu.",
+    "rating": 2,
+    "reason": "Improper translation of 'hammer wielder'; it is untranslated and unclear."
+  },
+  {
+    "original": "Everyone expected this outcome.",
+    "translate": "Herkes bu sonucu bekledi.",
+    "rating": 5,
+    "reason": "Simple and accurate translation."
+  },
+  {
+    "original": "I would always sleep on the ground since I didn't go to a hotel, but I took them often to see the river bed where I buried the treasure.",
+    "translate": "Bir otele gitmediğim için her zaman yerde uyurdum, ama hazineyi gömdüğüm nehir yatağını görmeleri için sık sık aldım.",
+    "rating": 4,
+    "reason": "Mostly accurate, but 'görmeleri için sık sık aldım' feels a bit awkward."
+  },
+  {
+    "original": "It was built in 1980 and has the youngest canopy.",
+    "translate": "1980 yılında inşa edildi ve en genç gölgeye sahip.",
+    "rating": 4,
+    "reason": "'Canopy' is translated as 'gölge,' which may not capture the intended meaning perfectly."
+  },
+  {
+    "original": "A priest is forbidden to speak to outsiders about the faith.",
+    "translate": "Bir rahip, yabancılarla inanç hakkında konuşmak yasaktır.",
+    "rating": 3,
+    "reason": "Grammatically incorrect; 'konuşması yasaktır' would be more accurate."
+  },
+  {
+    "original": "Siddhartha had no use for money anymore.",
+    "translate": "Siddhartha'nın artık para için bir faydası yoktu.",
+    "rating": 3,
+    "reason": "Awkward phrasing; 'paraya ihtiyacı yoktu' would be more natural."
+  },
+  {
+    "original": "The public transport terminal is at the port.",
+    "translate": "Toplu taşıma terminali limanda.",
+    "rating": 5,
+    "reason": "Accurate and concise translation."
+  },
+  {
+    "original": "You get no benefits.",
+    "translate": "Hiçbir faydası yok.",
+    "rating": 4,
+    "reason": "Mostly accurate, but could use 'Hiçbir avantaj elde edemezsin' for clarity."
+  },
+  {
+    "original": "My conjecture about who the words were directed to could not have been more wrong.",
+    "translate": "Kelimelerin kime yönlendirildiğine dair varsayımım daha yanlış olamazdı.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "This will only last a month according to the agency.",
+    "translate": "Ajansa göre bu sadece bir ay sürecek.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "There is no need for big companies to employ skilled people to argue for its interests.",
+    "translate": "Büyük şirketlerin, vasıflı insanları kendi çıkarlarını tartışmak için istihdam etmesine gerek yoktur.",
+    "rating": 5,
+    "reason": "Accurate with no issues."
+  },
+  {
+    "original": "Legal services are good for people who are just down on their luck.",
+    "translate": "Yasal hizmetler sadece şanslarına düşen insanlar için iyidir.",
+    "rating": 3,
+    "reason": "Translation is unclear; 'şanssız insanlar' would be more appropriate."
+  },
+  {
+    "original": "You cannot?",
+    "translate": "Yapamaz mısın?",
+    "rating": 5,
+    "reason": "Simple and accurate translation."
+  },
+  {
+    "original": "Try to open the door.",
+    "translate": "Kapıyı açmaya çalışın.",
+    "rating": 5,
+    "reason": "Accurate translation with no issues."
+  },
+  {
+    "original": "There is no complex question.",
+    "translate": "Karmaşık bir soru yok.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "They don't have 10 people running the whole operation from their corporate headquarters.",
+    "translate": "Şirket merkezlerinden tüm operasyonu çalıştıran 10 kişi yok.",
+    "rating": 5,
+    "reason": "Accurate and clear translation."
+  },
+  {
+    "original": "I would do the same if we didn't need cable but my wife wouldn't.",
+    "translate": "Kabloya ihtiyacımız olmasaydı ama karım olmazsa da aynısını yapardım.",
+    "rating": 3,
+    "reason": "Awkward phrasing; 'ama karım yapmazdı' would be better."
+  },
+  {
+    "original": "Carter didn't know the answer to the question.",
+    "translate": "Carter sorunun cevabını bilmiyordu.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "The screenings don't want to involve alcoholic parents.",
+    "translate": "Gösterimler alkollü ebeveynleri dahil etmek istemiyor.",
+    "rating": 4,
+    "reason": "Mostly accurate, but 'dahil etmek istemiyor' could be more contextually precise."
+  },
+  {
+    "original": "The SBA has objected to some agencies following this practice.",
+    "translate": "SBA, bu uygulamayı takiben bazı ajanslara itiraz etti.",
+    "rating": 5,
+    "reason": "Accurate and well-phrased."
+  },
+  {
+    "original": "One solo rider passed by.",
+    "translate": "Bir solo binici geçti.",
+    "rating": 4,
+    "reason": "'Solo binici' feels slightly awkward; could be rephrased as 'tek binici.'"
+  },
+  {
+    "original": "It required no skills, so it was too easy for them.",
+    "translate": "Hiçbir beceri gerektirmedi, bu yüzden onlar için çok kolaydı.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  },
+  {
+    "original": "Women in Weather is for female authors.",
+    "translate": "Hava durumlarında kadınlar kadın yazarlar içindir.",
+    "rating": 3,
+    "reason": "Awkward phrasing; 'Kadınlar Hava Durumunda, kadın yazarlar içindir' would be better."
+  },
+  {
+    "original": "The old man avoided speaking on the matter.",
+    "translate": "Yaşlı adam bu konuda konuşmaktan kaçındı.",
+    "rating": 5,
+    "reason": "Accurate and natural translation."
+  }
+]
+
