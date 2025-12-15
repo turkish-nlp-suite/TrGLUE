@@ -40,9 +40,13 @@ Available task names are:
 - qqp
 - rte
 - stsb
-- wnli
 
-To run all the tasks in order, please run `run_all.sh`. Benchmarking for BERTurk model and a handful LLMs can be found under the HF repo and the research paper.
+To run all the tasks in order, please run `run_all.sh`. Benchmarking for BERTurk model and a handful LLMs can be found under the HF repo and the research paper. Here are the batch size and learning rates to replicate the paper results:
+
+```
+RTE, STS-B, MRPC: batch size 16, lr 3e-5
+All other datasets: batch size 128, lr 2e-5
+```
 
 
 
