@@ -43,14 +43,10 @@ from transformers import (
     set_seed,
 )
 from transformers.trainer_utils import get_last_checkpoint
-from transformers.utils import check_min_version, send_example_telemetry
 from transformers.utils.versions import require_version
 
 
-# Will error if the minimal version of Transformers is not installed. Remove at your own risks.
-check_min_version("4.42.0.dev0")
-
-require_version("datasets>=1.8.0", "To fix: pip install -r examples/pytorch/text-classification/requirements.txt")
+require_version("datasets>=1.8.0")
 
 task_to_keys = {
     "cola": ("sentence", None),
@@ -228,7 +224,6 @@ def main():
 
     # Sending telemetry. Tracking the example usage helps us better allocate resources to maintain them. The
     # information sent is the one passed as arguments along with your Python/PyTorch versions.
-    send_example_telemetry("run_glue", model_args, data_args)
 
     # Setup logging
     logging.basicConfig(
@@ -498,7 +493,7 @@ def main():
 
     # Get the metric function
     if data_args.task_name == "sst2":
-        metric = evaluate.load("glue", "cola", cache_dir=model_args.cache_dir)
+        metric = evaluate.load("accuracy", cache_dir=model_args.cache_dir)
     elif data_args.task_name is not None:
         metric = evaluate.load("glue", data_args.task_name, cache_dir=model_args.cache_dir)
     elif is_regression:
@@ -636,4 +631,3 @@ def _mp_fn(index):
 
 if __name__ == "__main__":
     main()
-
