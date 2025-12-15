@@ -45,8 +45,10 @@ To run all the tasks in order, please run `run_all.sh`. Benchmarking for BERTurk
 
 ```
 RTE, STS-B, MRPC: batch size 16, lr 3e-5
-All other datasets: batch size 128, lr 2e-5
+All other datasets: batch size 128, lr 2e-5 
 ```
+
+We averaged the results over the runs with 5 different seeds: `1, 4, 21, 40, 124`.
 
 
 
