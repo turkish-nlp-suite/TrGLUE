@@ -51,6 +51,23 @@ All other datasets: batch size 128, lr 2e-5
 We averaged the results over the runs with 5 different seeds: `1, 4, 21, 40, 124`.
 
 
+## Blog post
+
+available under [our blog page](https://turkish-nlp-suite.github.io/2025/12/19/trglue/)
 
 ### Research paper and citation
-Coming soon!
+Preprint available at: https://www.arxiv.org/abs/2512.22100
+
+Cite the preprint:
+
+```
+@misc{altinok2025introducingtrgluesentiturcacomprehensive,
+      title={Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis}, 
+      author={Duygu Altinok},
+      year={2025},
+      eprint={2512.22100},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.22100}, 
+}
+```
