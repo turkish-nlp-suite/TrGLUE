@@ -55,6 +55,8 @@ We averaged the results over the runs with 5 different seeds: `1, 4, 21, 40, 124
 
 available under [our blog page](https://turkish-nlp-suite.github.io/2025/12/19/trglue/)
 
+Medium blog post published at [GDE program Medium blog](https://medium.com/p/5d37b75f91ad).
+
 ### Research paper and citation
 Preprint available at: https://www.arxiv.org/abs/2512.22100
 
