@@ -48,6 +48,8 @@ RTE, STS-B, MRPC: batch size 16, lr 3e-5
 All other datasets: batch size 128, lr 2e-5 
 ```
 
+We made another script `run_repro.sh` that uses the above parameters, if you wanna reproduce the paper results we recommend you run this script directly.
+
 We averaged the results over the runs with 5 different seeds: `1, 4, 21, 40, 124`.
 
 
