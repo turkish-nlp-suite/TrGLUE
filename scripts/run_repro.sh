@@ -23,7 +23,7 @@ for task in cola mnli sst2 mrpc qnli qqp rte stsb; do
 
   echo ">>> Running task=${task} model=${model_name} LR=${LR} BS=${BS}"
 
-  python3 run.py \
+  python3 run_trglue.py \
     --model_name_or_path "${model_name}" \
     --task_name "${task}" \
     --max_seq_length 128 \
